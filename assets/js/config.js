@@ -38,7 +38,7 @@ window.BAUGMENT = window.BAUGMENT || {};
 
 BAUGMENT.config = (function () {
 
-  const SUPABASE_URL = 'https://lvvgjtpitngorrfszpsu.supabase.co/rest/v1/';        /* e.g. 'https://abcdefghijkl.supabase.co' */
+  const SUPABASE_URL = 'https://lvvgjtpitngorrfszpsu.supabase.co';        /* e.g. 'https://abcdefghijkl.supabase.co' */
   const SUPABASE_ANON_KEY = 'sb_publishable_PUmt0Nu79eilE7kLUIAl6g_zM3kNIV_';   /* e.g. 'sb_publishable_...' */
 
   /* Realtime keeps every open BAUGMENT tab in step. Turn it off if you'd
