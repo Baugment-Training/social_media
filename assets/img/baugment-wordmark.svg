@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 96" width="420" height="96" role="img" aria-label="Baugment">
+  <!-- Typographic lockup per the brand guidelines: Plus Jakarta Sans ExtraBold,
+       "Baug" in the foreground colour, "ment" in Royal Blue Light.
+       currentColor is used for the first half so one file serves both themes. -->
+  <text x="0" y="56" font-family="Plus Jakarta Sans, Inter, system-ui, sans-serif"
+        font-weight="800" font-size="54" letter-spacing="-1.6" fill="currentColor">Baug<tspan fill="#3B6FFF">ment</tspan></text>
+  <text x="2" y="84" font-family="Plus Jakarta Sans, Inter, system-ui, sans-serif"
+        font-weight="600" font-size="13" letter-spacing="4.4" fill="#94A3B8">BE AND AUGMENT</text>
+</svg>
